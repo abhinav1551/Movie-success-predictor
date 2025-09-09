@@ -5,7 +5,8 @@ A simple web-based tool to predict if a movie will be a "Hit" or "Flop" based on
 <br>
 🚀 Live Demo
 
-[**Try the live predictor here!**]([https://your-live-demo-link.com](https://abhinav1551.github.io/Movie-success-predictor/MoviePredictor.html))
+[**Try the live predictor**](https://abhinav1551.github.io/Movie-success-predictor/MoviePredictor.html)
+
 
 
 <br>
@@ -39,4 +40,5 @@ MoviePredictor.html — The main web application file.
 Movie_success_prediction.ipynb — The original Jupyter Notebook with the data analysis and model training.
 
 README.md — This project information file.
+
 
